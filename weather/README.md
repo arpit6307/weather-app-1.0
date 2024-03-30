@@ -38,9 +38,9 @@ Feel free to check the issues page.
 
 ## Author
 
-Chernyshev Artemiy 👤
+Arpit Singh Yadav 👤
 
-- GitHub: [@chernyshevartemiy](https://github.com/chernyshevartemiy)
-- Discord: [@arteche](https://discord.com/users/339701172564656128)
+- GitHub: [@arpit080](https://github.com/arpit080)
+- Instagram: [@mr_arpit_08](https://www.instagram.com/mr_arpit_08/)
 
 Give a ⭐️ if you like this project!
